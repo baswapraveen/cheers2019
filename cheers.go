@@ -14,7 +14,7 @@ var allSprites sprite.SpriteGroup
 var bubbles []*Bubble
 var Width int
 var Height int
-var cat int
+
 
 const (
 	falling = iota
